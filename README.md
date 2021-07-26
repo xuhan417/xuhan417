@@ -1,4 +1,4 @@
-### HELLO ! I'm [Xu Han(中文：韩叙)!](https://xuhan417.github.io/) 👋
+### HELLO ! I'm [Xu Han(简体中文：韩叙)!](https://xuhan417.github.io/) 👋
 
 I am a Ph.D. student at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) in [UCLA](https://www.ucla.edu/).
 Before joining UCLA, I was a System Development Intern at [GE-Healthcare](https://www.gehealthcare.cn/) and 
