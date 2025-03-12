@@ -1,6 +1,7 @@
 ### HELLO ! I'm [Xu Han(简体中文：韩叙)!](https://xuhan417.github.io/) 👋
 
-I am a Ph.D. student at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) in [UCLA](https://www.ucla.edu/).
+Graduate PhD in 12/2024 !! 
+I am now a postdoc at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/) in [UCLA](https://www.ucla.edu/).
 Before joining UCLA, I was a System Development Intern at [GE-Healthcare](https://www.gehealthcare.cn/) and 
 a Deep Learning Intern at [SAIC General Motors Corporation](https://www.gmchina.com/company/cn/en/gm/home.html).
 
