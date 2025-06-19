@@ -25,7 +25,6 @@ a Deep Learning Intern at [SAIC General Motors Corporation](https://www.gmchina.
 
 📫 **Contact**:
 - Email (hanxu417@ucla.edu)
-- [Homepage](https://xuhan417.github.io/)
 - [Linkedin](https://www.linkedin.com/in/xu-han-12851a64/)
 
 
